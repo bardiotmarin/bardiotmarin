@@ -197,10 +197,11 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 ![](assets/Bottom_down.svg)
 
-
+<p align="center"> 
+    
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+/>
 ------ marin
 
 
