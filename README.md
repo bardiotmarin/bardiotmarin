@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F7A20C&width=435&lines=Hey+!+Im+Marin+;Welcome+to+my+GitHub+playground!;Passionate+coder+with+4+years+under+my+belt.;Exploring+the+tech+universe%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=25&pause=1000&color=F7A20C&width=700&lines=Hey+!+Im+Marin+;Welcome+to+my+GitHub+playground!;Passionate+coder+with+4+years+under+my+belt.;Exploring+the+tech+universe%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
