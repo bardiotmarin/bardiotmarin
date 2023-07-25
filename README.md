@@ -80,7 +80,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+<a href="https://github.com/bardiotmarin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bardiotmarin" alt="BEPb" /></a>
 </p>
 
 
@@ -175,7 +175,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bardiotmarin/bardiotmarin&type=Date)](https://star-history.com/#Bbardiotmarin/bardiotmarin&Date)
 
 
 
