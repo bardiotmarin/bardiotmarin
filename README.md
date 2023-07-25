@@ -85,7 +85,7 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=BardiotMarin&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 </div>
-
+<codersrank-summary username="bardiotmarin"></codersrank-summary>
 <p align="center"> 
 
 ### 📫 How to Reach me:
