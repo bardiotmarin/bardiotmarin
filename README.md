@@ -76,22 +76,8 @@
 </div>
 
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
 <div align="center">
-<summary>Trophy: codersrank.io Profile Trophy</summary>
+<summary>## 🏆Trophy: codersrank.io Profile Trophy</summary>
     <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bardiotmarin&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
