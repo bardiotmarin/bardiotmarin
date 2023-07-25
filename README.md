@@ -168,13 +168,6 @@ counting of visitors in my github profil started from July 25, 2023
 ![](https://count.getloli.com/get/@bardiotmarin.github.readme)
 </br>
 
-<div align="left"> 
-    
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 [MIT](LICENSE)
 
 
