@@ -187,6 +187,13 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
   *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
 ---
+<div align="center">  
+    
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ![](assets/Bottom_down.svg)
 
