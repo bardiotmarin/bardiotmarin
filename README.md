@@ -81,12 +81,6 @@
 ![](https://github-trophies.vercel.app/?username=bardiotmarin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </div>
 
-<p align="center"> 
-<a href="https://github.com/bardiotmarin/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bardiotmarin" alt="BEPb" /></a>
-</p>
-
-
-
 
    <!--machine-learning-->
 ```mermaid
