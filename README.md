@@ -67,7 +67,7 @@
 
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bardiotmarin" width="auto"></img>
 
 </div>
 
