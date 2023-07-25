@@ -116,9 +116,8 @@ width="30%">
 
 
 
-<!-- Belarus - My Home-->
+<!-- France - My Home-->
   
- ```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -132,14 +131,18 @@ width="30%">
        "type": "Polygon",
        "coordinates": [
          [
-             [23.5,53.9],
-             [32.6,52.6]
+             [-5.2, 42.0],
+             [9.6, 42.0],
+             [9.6, 51.1],
+             [-5.2, 51.1],
+             [-5.2, 42.0]
          ]
        ]
      }
    }
  ]
 }
+
 
 ```
 
