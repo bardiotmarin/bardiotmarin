@@ -88,6 +88,8 @@
 <codersrank-summary username="bardiotmarin"></codersrank-summary>
 <p align="center"> 
 
+ ### ![](./src/bannerlofi.gif)      
+
 ### 📫 How to Reach me:
 <p align="left">
 <a href="mailto:bardiot.marin@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/bardiotmarin/bardiotmarin/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
