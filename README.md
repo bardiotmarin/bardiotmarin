@@ -76,7 +76,9 @@
 </p>
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=bardiotmarin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </div>
 
 <p align="center"> 
@@ -219,8 +221,6 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bardiotmarin&theme=jolly&hide_border=true)<br/>
 
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=bardiotmarin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
