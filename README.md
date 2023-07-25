@@ -117,7 +117,7 @@ width="30%">
 
 
 <!-- France - My Home-->
-  
+ ```geojson  
 {
  "type": "FeatureCollection",
  "features": [
