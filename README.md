@@ -153,8 +153,8 @@ width="30%"> ---!>
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/bardiotmarin/count.svg">  
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+counting of visitors to this page in this section started from July 25, 2023
+<a href="https://info.flagcounter.com/lQ2Z"><img src="https://s01.flagcounter.com/count2/lQ2Z/bg_CFF4FF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ## Star History
@@ -164,7 +164,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 
 ### Profile Views
-counting of visitors to this page in this section started from July 25, 2023
+counting of visitors in my github profil started from July 25, 2023
 
 ![](https://count.getloli.com/get/@bardiotmarin.github.readme)
 </br>
