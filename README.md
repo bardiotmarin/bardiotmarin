@@ -12,7 +12,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
- <a href="lien vers mon portefolio"><img src="https://giphy.com/stickers/Giflytics-transparent-Vf3ZKdillTMOOaOho0" align="right" height="48" width="48" ></a> 
+ <a href="lien vers mon portefolio"><img src="./src/robot.gif" align="right" height="48" width="48" ></a> 
 
 
 <!--   my-ticker -->    
