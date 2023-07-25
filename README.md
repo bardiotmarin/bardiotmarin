@@ -12,7 +12,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
- <a href="lien vers mon portefolio"><img src="./src/robot.gif" align="right" height="48" width="48" ></a> 
+ <a href="lien vers mon portefolio"><img src="./src/robot.gif" align="right" height="98" width="98" ></a> 
 
 
 <!--   my-ticker -->    
