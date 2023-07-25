@@ -197,10 +197,10 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
     
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-/>
 
 
-<!------ marin----!>
+
+<marin/>
 
 
 ## 🌐Socials
@@ -242,12 +242,6 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ![](https://github-readme-stats.vercel.app/api?username=bardiotmarin&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bardiotmarin&theme=jolly&hide_border=true)<br/>
 
-
-
-
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bardiotmarin&icon=0&color=0)](https://visitcount.itsvg.in)
