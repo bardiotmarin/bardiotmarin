@@ -189,7 +189,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 <div align="center">  
     
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
