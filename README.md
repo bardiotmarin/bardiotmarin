@@ -48,6 +48,7 @@
 ### 📈 GitHub Activity Graph:
 
 <div align="center">      
+    
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-readme-stats.vercel.app/api?username=bardiotmarin&theme=jolly&hide_border=true&include_all_commits=true_private=true)   | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiotmarin&theme=radical&layout=compact) |
