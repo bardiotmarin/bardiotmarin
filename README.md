@@ -202,7 +202,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 
 
-
+------ marin
 
 
 ## 🌐Socials
@@ -213,7 +213,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=bardiotmarin&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bardiotmarin&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiotmarin&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=bardiotmarin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
