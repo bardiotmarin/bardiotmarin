@@ -44,7 +44,7 @@
 ### 📈 GitHub Activity Graph:
 <div align="center">
     
-[![Marin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bardiotmarin&theme=github-compact)](https://github.com/bardiotmarin/github-readme-activity-graph) 
+(https://github.com/bardiotmarin/github-readme-activity-graph) 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-readme-stats.vercel.app/api?username=bardiotmarin&theme=jolly&hide_border=true&include_all_commits=true_private=true)   | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiotmarin&theme=radical&layout=compact) |
