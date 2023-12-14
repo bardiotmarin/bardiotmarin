@@ -59,7 +59,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/bardiotmarin/bardiotmarin/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline -->
 <a href="https://skyline.github.com/bardiotmarin/2023"><img src="./src/ezgif.com-video-to-gif.gif" alt="" width="auto" height="auto" /></a>
