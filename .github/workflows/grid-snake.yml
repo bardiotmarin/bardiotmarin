@@ -34,7 +34,7 @@ jobs:
           git config --global user.email "bardiot.marin@gmail.com"
           git add dist/*
           git commit -m "Updated Snake contribution graph" || echo "No changes to commit"
-          git push oriigin main
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
