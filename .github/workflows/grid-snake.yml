@@ -36,7 +36,7 @@ jobs:
           git commit -m "Updated Snake contribution graph" || echo "No changes to commit"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       # Déploiement sur la branche "output"
       - name: Deploy to output branch
@@ -45,4 +45,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
