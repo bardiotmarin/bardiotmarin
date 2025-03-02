@@ -7,42 +7,29 @@ on:
     - cron: "0 */6 * * *"  # ✅ Exécute toutes les 6 heures
   workflow_dispatch:  # ✅ Permet de déclencher l’action manuellement
 
+  push:
+    branches:
+    - main
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write  # ✅ Permet l’écriture dans le repo
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4  # ✅ Mise à jour vers v4
-
-      # Génération du Snake GIF & SVG
-      - uses: Platane/snk@v3  # ✅ Utilisation d’une version stable
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: bardiotmarin
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status  # ✅ Vérifie les fichiers générés (debug)
-
-      # Ajout et push des fichiers générés
-      - name: Commit & Push changes
-        run: |
-          git config --global user.name "bardiotmarin"
-          git config --global user.email "bardiot.marin@gmail.com"
-          git add dist/*
-          git commit -m "Updated Snake contribution graph" || echo "No changes to commit"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-
-      # Déploiement sur la branche "output"
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
